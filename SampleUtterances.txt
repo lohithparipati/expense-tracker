@@ -1,0 +1,453 @@
+ResetPlayersIntent clear
+ResetPlayersIntent clear a report
+ResetPlayersIntent clear report
+ResetPlayersIntent clear dollars
+ResetPlayersIntent clear expenses
+ResetPlayersIntent clear amount
+ResetPlayersIntent clear last report
+ResetPlayersIntent clear last accounts
+ResetPlayersIntent clear last friends
+ResetPlayersIntent clear last dollars
+ResetPlayersIntent clear last expenses
+ResetPlayersIntent clear last amount
+ResetPlayersIntent clear my friends
+ResetPlayersIntent clear my report
+ResetPlayersIntent clear my accounts
+ResetPlayersIntent clear my dollars
+ResetPlayersIntent clear my expenses
+ResetPlayersIntent clear my amount
+ResetPlayersIntent clear old report
+ResetPlayersIntent clear old accounts
+ResetPlayersIntent clear old friends
+ResetPlayersIntent clear old dollars
+ResetPlayersIntent clear old expenses
+ResetPlayersIntent clear old amount
+ResetPlayersIntent clear our report
+ResetPlayersIntent clear our friends
+ResetPlayersIntent clear our friends
+ResetPlayersIntent clear our dollars
+ResetPlayersIntent clear our expenses
+ResetPlayersIntent clear our amount
+ResetPlayersIntent clear accounts
+ResetPlayersIntent clear past report
+ResetPlayersIntent clear past accounts
+ResetPlayersIntent clear past friends
+ResetPlayersIntent clear past dollars
+ResetPlayersIntent clear past expenses
+ResetPlayersIntent clear past amount
+ResetPlayersIntent clear friends
+ResetPlayersIntent clear that report
+ResetPlayersIntent clear that amount
+ResetPlayersIntent clear the report
+ResetPlayersIntent clear the accounts
+ResetPlayersIntent clear the friends
+ResetPlayersIntent clear the dollars
+ResetPlayersIntent clear the expenses
+ResetPlayersIntent clear the amount
+ResetPlayersIntent clear those accounts
+ResetPlayersIntent clear those friends
+ResetPlayersIntent clear those dollars
+ResetPlayersIntent clear those expenses
+ResetPlayersIntent delete
+ResetPlayersIntent delete a report
+ResetPlayersIntent delete report
+ResetPlayersIntent delete dollars
+ResetPlayersIntent delete expenses
+ResetPlayersIntent delete amount
+ResetPlayersIntent delete last report
+ResetPlayersIntent delete last accounts
+ResetPlayersIntent delete last friends
+ResetPlayersIntent delete last dollars
+ResetPlayersIntent delete last expenses
+ResetPlayersIntent delete last amount
+ResetPlayersIntent delete my friends
+ResetPlayersIntent delete my report
+ResetPlayersIntent delete my accounts
+ResetPlayersIntent delete my dollars
+ResetPlayersIntent delete my expenses
+ResetPlayersIntent delete my amount
+ResetPlayersIntent delete old report
+ResetPlayersIntent delete old accounts
+ResetPlayersIntent delete old friends
+ResetPlayersIntent delete old dollars
+ResetPlayersIntent delete old expenses
+ResetPlayersIntent delete old amount
+ResetPlayersIntent delete our report
+ResetPlayersIntent delete our accounts
+ResetPlayersIntent delete our friends
+ResetPlayersIntent delete our dollars
+ResetPlayersIntent delete our expenses
+ResetPlayersIntent delete our amount
+ResetPlayersIntent delete accounts
+ResetPlayersIntent delete past report
+ResetPlayersIntent delete past accounts
+ResetPlayersIntent delete past friends
+ResetPlayersIntent delete past dollars
+ResetPlayersIntent delete past expenses
+ResetPlayersIntent delete past amount
+ResetPlayersIntent delete friends
+ResetPlayersIntent delete that report
+ResetPlayersIntent delete that amount
+ResetPlayersIntent delete the report
+ResetPlayersIntent delete the accounts
+ResetPlayersIntent delete the friends
+ResetPlayersIntent delete the dollars
+ResetPlayersIntent delete the expenses
+ResetPlayersIntent delete the amount
+ResetPlayersIntent delete those accounts
+ResetPlayersIntent delete those friends
+ResetPlayersIntent delete those dollars
+ResetPlayersIntent delete those expenses
+ResetPlayersIntent erase
+ResetPlayersIntent erase a report
+ResetPlayersIntent erase report
+ResetPlayersIntent erase dollars
+ResetPlayersIntent erase expenses
+ResetPlayersIntent erase amount
+ResetPlayersIntent erase last report
+ResetPlayersIntent erase last accounts
+ResetPlayersIntent erase last friends
+ResetPlayersIntent erase last dollars
+ResetPlayersIntent erase last expenses
+ResetPlayersIntent erase last amount
+ResetPlayersIntent erase my friends
+ResetPlayersIntent erase my report
+ResetPlayersIntent erase my accounts
+ResetPlayersIntent erase my dollars
+ResetPlayersIntent erase my expenses
+ResetPlayersIntent erase my amount
+ResetPlayersIntent erase old report
+ResetPlayersIntent erase old accounts
+ResetPlayersIntent erase old friends
+ResetPlayersIntent erase old dollars
+ResetPlayersIntent erase old expenses
+ResetPlayersIntent erase old amount
+ResetPlayersIntent erase our report
+ResetPlayersIntent erase our accounts
+ResetPlayersIntent erase our friends
+ResetPlayersIntent erase our dollars
+ResetPlayersIntent erase our expenses
+ResetPlayersIntent erase our amount
+ResetPlayersIntent erase accounts
+ResetPlayersIntent erase past report
+ResetPlayersIntent erase past accounts
+ResetPlayersIntent erase past friends
+ResetPlayersIntent erase past dollars
+ResetPlayersIntent erase past expenses
+ResetPlayersIntent erase past amount
+ResetPlayersIntent erase friends
+ResetPlayersIntent erase that report
+ResetPlayersIntent erase that amount
+ResetPlayersIntent erase the report
+ResetPlayersIntent erase the accounts
+ResetPlayersIntent erase the friends
+ResetPlayersIntent erase the dollars
+ResetPlayersIntent erase the expenses
+ResetPlayersIntent erase the amount
+ResetPlayersIntent erase those accounts
+ResetPlayersIntent erase those friends
+ResetPlayersIntent erase those dollars
+ResetPlayersIntent erase those expenses
+ResetPlayersIntent forget
+ResetPlayersIntent forget a report
+ResetPlayersIntent forget report
+ResetPlayersIntent forget dollars
+ResetPlayersIntent forget expenses
+ResetPlayersIntent forget amount
+ResetPlayersIntent forget last report
+ResetPlayersIntent forget last accounts
+ResetPlayersIntent forget last friends
+ResetPlayersIntent forget last dollars
+ResetPlayersIntent forget last expenses
+ResetPlayersIntent forget last amount
+ResetPlayersIntent forget my friends
+ResetPlayersIntent forget my report
+ResetPlayersIntent forget my accounts
+ResetPlayersIntent forget my dollars
+ResetPlayersIntent forget my expenses
+ResetPlayersIntent forget my amount
+ResetPlayersIntent forget old report
+ResetPlayersIntent forget old accounts
+ResetPlayersIntent forget old friends
+ResetPlayersIntent forget old dollars
+ResetPlayersIntent forget old expenses
+ResetPlayersIntent forget old amount
+ResetPlayersIntent forget our report
+ResetPlayersIntent forget our accounts
+ResetPlayersIntent forget our friends
+ResetPlayersIntent forget our dollars
+ResetPlayersIntent forget our expenses
+ResetPlayersIntent forget our amount
+ResetPlayersIntent forget accounts
+ResetPlayersIntent forget past report
+ResetPlayersIntent forget past accounts
+ResetPlayersIntent forget past friends
+ResetPlayersIntent forget past dollars
+ResetPlayersIntent forget past expenses
+ResetPlayersIntent forget past amount
+ResetPlayersIntent forget friends
+ResetPlayersIntent forget that report
+ResetPlayersIntent forget that amount
+ResetPlayersIntent forget the report
+ResetPlayersIntent forget the accounts
+ResetPlayersIntent forget the friends
+ResetPlayersIntent forget the dollars
+ResetPlayersIntent forget the expenses
+ResetPlayersIntent forget the amount
+ResetPlayersIntent forget those accounts
+ResetPlayersIntent forget those friends
+ResetPlayersIntent forget those dollars
+ResetPlayersIntent forget those expenses
+ResetPlayersIntent remove
+ResetPlayersIntent remove a report
+ResetPlayersIntent remove report
+ResetPlayersIntent remove dollars
+ResetPlayersIntent remove expenses
+ResetPlayersIntent remove amount
+ResetPlayersIntent remove last report
+ResetPlayersIntent remove last accounts
+ResetPlayersIntent remove last friends
+ResetPlayersIntent remove last dollars
+ResetPlayersIntent remove last expenses
+ResetPlayersIntent remove last amount
+ResetPlayersIntent remove my friends
+ResetPlayersIntent remove my report
+ResetPlayersIntent remove my accounts
+ResetPlayersIntent remove my dollars
+ResetPlayersIntent remove my expenses
+ResetPlayersIntent remove my amount
+ResetPlayersIntent remove old report
+ResetPlayersIntent remove old accounts
+ResetPlayersIntent remove old friends
+ResetPlayersIntent remove old dollars
+ResetPlayersIntent remove old expenses
+ResetPlayersIntent remove old amount
+ResetPlayersIntent remove our report
+ResetPlayersIntent remove our accounts
+ResetPlayersIntent remove our friends
+ResetPlayersIntent remove our dollars
+ResetPlayersIntent remove our expenses
+ResetPlayersIntent remove our amount
+ResetPlayersIntent remove accounts
+ResetPlayersIntent remove past report
+ResetPlayersIntent remove past accounts
+ResetPlayersIntent remove past friends
+ResetPlayersIntent remove past dollars
+ResetPlayersIntent remove past expenses
+ResetPlayersIntent remove past amount
+ResetPlayersIntent remove friends
+ResetPlayersIntent remove that report
+ResetPlayersIntent remove that amount
+ResetPlayersIntent remove the report
+ResetPlayersIntent remove the accounts
+ResetPlayersIntent remove the friends
+ResetPlayersIntent remove the dollars
+ResetPlayersIntent remove the expenses
+ResetPlayersIntent remove the amount
+ResetPlayersIntent remove those accounts
+ResetPlayersIntent remove those friends
+ResetPlayersIntent remove those dollars
+ResetPlayersIntent remove those expenses
+ResetPlayersIntent reset
+ResetPlayersIntent reset a report
+ResetPlayersIntent reset report
+ResetPlayersIntent reset dollars
+ResetPlayersIntent reset expenses
+ResetPlayersIntent reset amount
+ResetPlayersIntent reset last report
+ResetPlayersIntent reset last accounts
+ResetPlayersIntent reset last friends
+ResetPlayersIntent reset last dollars
+ResetPlayersIntent reset last expenses
+ResetPlayersIntent reset last amount
+ResetPlayersIntent reset my friends
+ResetPlayersIntent reset my report
+ResetPlayersIntent reset my accounts
+ResetPlayersIntent reset my dollars
+ResetPlayersIntent reset my expenses
+ResetPlayersIntent reset my amount
+ResetPlayersIntent reset old report
+ResetPlayersIntent reset old accounts
+ResetPlayersIntent reset old friends
+ResetPlayersIntent reset old dollars
+ResetPlayersIntent reset old expenses
+ResetPlayersIntent reset old amount
+ResetPlayersIntent reset our report
+ResetPlayersIntent reset our accounts
+ResetPlayersIntent reset our friends
+ResetPlayersIntent reset our dollars
+ResetPlayersIntent reset our expenses
+ResetPlayersIntent reset our amount
+ResetPlayersIntent reset accounts
+ResetPlayersIntent reset past report
+ResetPlayersIntent reset past accounts
+ResetPlayersIntent reset past friends
+ResetPlayersIntent reset past dollars
+ResetPlayersIntent reset past expenses
+ResetPlayersIntent reset past amount
+ResetPlayersIntent reset friends
+ResetPlayersIntent reset that report
+ResetPlayersIntent reset that amount
+ResetPlayersIntent reset the report
+ResetPlayersIntent reset the accounts
+ResetPlayersIntent reset the friends
+ResetPlayersIntent reset the dollars
+ResetPlayersIntent reset the expenses
+ResetPlayersIntent reset the amount
+ResetPlayersIntent reset those accounts
+ResetPlayersIntent reset those friends
+ResetPlayersIntent reset those dollars
+ResetPlayersIntent reset those expenses
+ResetPlayersIntent wipe
+ResetPlayersIntent wipe a report
+ResetPlayersIntent wipe report
+ResetPlayersIntent wipe dollars
+ResetPlayersIntent wipe expenses
+ResetPlayersIntent wipe amount
+ResetPlayersIntent wipe last report
+ResetPlayersIntent wipe last accounts
+ResetPlayersIntent wipe last friends
+ResetPlayersIntent wipe last dollars
+ResetPlayersIntent wipe last expenses
+ResetPlayersIntent wipe last amount
+ResetPlayersIntent wipe my friends
+ResetPlayersIntent wipe my report
+ResetPlayersIntent wipe my accounts
+ResetPlayersIntent wipe my dollars
+ResetPlayersIntent wipe my expenses
+ResetPlayersIntent wipe my amount
+ResetPlayersIntent wipe old report
+ResetPlayersIntent wipe old accounts
+ResetPlayersIntent wipe old friends
+ResetPlayersIntent wipe old dollars
+ResetPlayersIntent wipe old expenses
+ResetPlayersIntent wipe old amount
+ResetPlayersIntent wipe our report
+ResetPlayersIntent wipe our accounts
+ResetPlayersIntent wipe our friends
+ResetPlayersIntent wipe our dollars
+ResetPlayersIntent wipe our expenses
+ResetPlayersIntent wipe our amount
+ResetPlayersIntent wipe accounts
+ResetPlayersIntent wipe past report
+ResetPlayersIntent wipe past accounts
+ResetPlayersIntent wipe past friends
+ResetPlayersIntent wipe past dollars
+ResetPlayersIntent wipe past expenses
+ResetPlayersIntent wipe past amount
+ResetPlayersIntent wipe friends
+ResetPlayersIntent wipe that report
+ResetPlayersIntent wipe that amount
+ResetPlayersIntent wipe the report
+ResetPlayersIntent wipe the accounts
+ResetPlayersIntent wipe the friends
+ResetPlayersIntent wipe the dollars
+ResetPlayersIntent wipe the expenses
+ResetPlayersIntent wipe the amount
+ResetPlayersIntent wipe those accounts
+ResetPlayersIntent wipe those friends
+ResetPlayersIntent wipe those dollars
+ResetPlayersIntent wipe those expenses
+
+NewGameIntent begin a report
+NewGameIntent begin a new report
+NewGameIntent begin report
+NewGameIntent begin new report
+NewGameIntent create a report
+NewGameIntent create a new report
+NewGameIntent create report
+NewGameIntent create new report
+NewGameIntent do a report
+NewGameIntent do a new report
+NewGameIntent do report
+NewGameIntent do new report
+NewGameIntent make a report
+NewGameIntent make a new report
+NewGameIntent make report
+NewGameIntent make new report
+NewGameIntent new report
+NewGameIntent open a report
+NewGameIntent open a new report
+NewGameIntent open report
+NewGameIntent open new report
+NewGameIntent restart
+NewGameIntent restart report
+NewGameIntent set up a report
+NewGameIntent set up a new report
+NewGameIntent set up report
+NewGameIntent set up new report
+NewGameIntent begin amount
+NewGameIntent create amount
+NewGameIntent do amount
+NewGameIntent make amount
+NewGameIntent open amount
+NewGameIntent set up amount
+NewGameIntent start a report
+
+TellScoresIntent borrowers
+TellScoresIntent top borrower
+TellScoresIntent give me the expenses
+TellScoresIntent give me the expense board
+TellScoresIntent give me who is the top borrower
+TellScoresIntent how do my amounts look
+TellScoresIntent least
+TellScoresIntent who is the least borrower
+TellScoresIntent expense board
+TellScoresIntent list current dollars
+TellScoresIntent least borrower
+TellScoresIntent expenses
+TellScoresIntent dollars
+TellScoresIntent borrowers
+TellScoresIntent read the standing
+TellScoresIntent recite the dollars
+TellScoresIntent say the expenses
+TellScoresIntent share my current borrower report
+TellScoresIntent standing
+TellScoresIntent state my friends standing
+TellScoresIntent state the top borrower
+TellScoresIntent tell me current amount
+TellScoresIntent tell me the current amount
+TellScoresIntent tell me the amount
+TellScoresIntent tell me current amount
+TellScoresIntent tell me the current report
+TellScoresIntent tell me the report
+TellScoresIntent tell me who's least
+TellScoresIntent tell me who borrowed the most
+TellScoresIntent the current amount
+TellScoresIntent the borrowers list
+TellScoresIntent the report
+TellScoresIntent the expense report
+TellScoresIntent the record
+TellScoresIntent view dollars
+TellScoresIntent what is the report
+TellScoresIntent what dollars does everyone owe
+TellScoresIntent what amounts do everyone owe
+TellScoresIntent what's the report
+TellScoresIntent which one of my friends is borrowing more
+TellScoresIntent who is borrowing more
+TellScoresIntent who is the top borrower
+TellScoresIntent who took the most dollars
+TellScoresIntent who owes me the most dollars
+TellScoresIntent who owes me the most
+TellScoresIntent who's in the huge debt
+TellScoresIntent top borrower
+
+AddPlayerIntent add friend {PlayerName}
+AddPlayerIntent add {PlayerName}
+AddPlayerIntent add {PlayerName} to the report
+AddPlayerIntent add friend {PlayerName} to the report
+AddPlayerIntent add {PlayerName} to the report
+AddPlayerIntent {PlayerName}
+
+AddScoreIntent add {PlayerName} {ScoreNumber}
+AddScoreIntent {PlayerName} took {ScoreNumber}
+AddScoreIntent {PlayerName} took {ScoreNumber} dollars
+AddScoreIntent record {PlayerName} {ScoreNumber}
+AddScoreIntent give {PlayerName} {ScoreNumber} dollars
+AddScoreIntent record {PlayerName} {ScoreNumber} dollars
+AddScoreIntent {ScoreNumber} more for {PlayerName}
+AddScoreIntent {ScoreNumber} for {PlayerName}
+AddScoreIntent give {PlayerName} {ScoreNumber} more dollars
+AddScoreIntent {ScoreNumber} more dollars for {PlayerName}
+AddScoreIntent {ScoreNumber} dollars for {PlayerName}
+AddScoreIntent note that {PlayerName} took {ScoreNumber} dollars
